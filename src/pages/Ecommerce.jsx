@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Ecommerce = () => {
+export const ECommerce = () => {
   return (
     <div>Ecommerce</div>
   );

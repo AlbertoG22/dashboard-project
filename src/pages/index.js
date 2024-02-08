@@ -1,4 +1,4 @@
-export * from './Ecommerce';
+export * from './ECommerce';
 export * from './Kanban';
 export * from './Orders';
 export * from './Employees';
