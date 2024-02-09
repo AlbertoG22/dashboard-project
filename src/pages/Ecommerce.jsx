@@ -53,6 +53,10 @@ export const ECommerce = () => {
           )) }
         </div>
       </div>
+      {/* new section */}
+      <div>
+        
+      </div>
     </div>
   );
 };
