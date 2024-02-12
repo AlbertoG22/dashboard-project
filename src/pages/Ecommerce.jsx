@@ -78,6 +78,12 @@ export const ECommerce = () => {
                 </p>
                 <p className='text-gray-500 mt-1'>Budget</p>
               </div>
+              <div>
+                <p>
+                  <span className='text-3xl font-semibold'>$48,438</span>
+                </p>
+                <p className='text-gray-500 mt-1'>Expense</p>
+              </div>
             </div>
           </div>
         </div>
