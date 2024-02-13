@@ -8,6 +8,7 @@ export const Editor = () => {
       <Header category='Page' title='Editor' />
       <RichTextEditorComponent>
         <Inject services={[ HtmlEditor, Toolbar, Image, Link, QuickToolbar ]} />
+        <EditorData />
       </RichTextEditorComponent>
     </div>
   );
